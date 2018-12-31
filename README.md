@@ -1,2 +1,3 @@
 # budget-management-java
-A BUDGET MANAGEMENT APP USING JAVA SWING AND JDBC. LET YOUR BUDGETS BE MANAGED IN AN INTERSTING MANNER.
+A budget management app built in java using popular framework Swing and using capabalities of JDBC for database connectivity.
+Summarise your income and expenses in an easy and effective manner in a familiar java environment.
